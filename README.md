@@ -1,7 +1,8 @@
 # Kanban-Board-Doc
-toDoList: {
 
-##Datastrecture
+##Datastrectures
+
+toDoList: {
 
 name: "ToDo"
 tasks: [
