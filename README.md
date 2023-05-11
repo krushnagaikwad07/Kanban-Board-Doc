@@ -27,7 +27,7 @@ tasks: [
 }
 
 # Contributer
-Krushna Gaikwad
-Madhvi Malviya
-Neelu Mishra
+Krushna Gaikwad,
+Madhvi Malviya,
+Neelu Mishra,
 Rhutik Thakare
